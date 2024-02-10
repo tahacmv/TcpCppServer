@@ -1,0 +1,3 @@
+B:/work/C/TcpCppServer/BareboneServer/cmake-build-debug/CMakeFiles/BareboneServer.dir
+B:/work/C/TcpCppServer/BareboneServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/work/C/TcpCppServer/BareboneServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

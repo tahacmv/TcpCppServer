@@ -1,0 +1,4 @@
+# ninja log v5
+2	285	7293077828402500	build.ninja	4542cc841117be63
+0	2262	7293062282078931	CMakeFiles/BareboneServer.dir/main.cpp.obj	fc0133404d7fa9ce
+2294	2431	7293062283711452	BareboneServer.exe	5091e59fd07070da
